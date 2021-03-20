@@ -6,6 +6,6 @@
 
 Support Engineer at SAP & Computer Engineering undergrad at Universidade Estadual do Rio Grande do Sul
 
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently working on Python and C++
 - 🌱 I’m currently learning Image Processing, Natural Language Processing & Data Science
 - ⚡ Technologies: Python, C, C++, ABAP, Image Processing, S/4HANA, R/3
